@@ -13,7 +13,7 @@ The application uses OpenweatherMap API to fetch the data and display it it on t
     *Javascript
   
    To run the the application, make sure you are connected to the internet then:
+    1.clone the repository to your local machine.
+    2.Open the index.html file in a web browser
     
-    Clone the repository to your local machine.
-    
-     Open the index.html file in a web browser.
+   
